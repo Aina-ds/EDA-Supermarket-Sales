@@ -47,4 +47,6 @@ Public supermarket sales dataset (CSV format).
 - Interactive dashboards
 
 
+## 🔍 Sample Visualization
 
+![Sales by Branch](images/sales_by_branch.png)
