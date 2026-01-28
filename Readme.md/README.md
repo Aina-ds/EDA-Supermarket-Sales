@@ -49,5 +49,6 @@ Public supermarket sales dataset (CSV format).
 
 ## 🔍 Sample Visualization
 
-![Sales by Branch](images/sales_by_branch.png)
+![Sales by Branch](https://raw.githubusercontent.com/Aina-ds/EDA-Supermarket-Sales/main/images/sales_by_branch.png)
+
 
