@@ -50,3 +50,4 @@ Public supermarket sales dataset (CSV format).
 ## 🔍 Sample Visualization
 
 ![Sales by Branch](images/sales_by_branch.png)
+
