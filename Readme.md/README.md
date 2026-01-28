@@ -1,8 +1,7 @@
 # 🛒 Supermarket Sales Exploratory Data Analysis
 
 ## 📌 Project Overview
-This project performs exploratory data analysis (EDA) on a supermarket sales dataset
-to understand sales patterns, customer behavior, and product performance using Python.
+This project performs exploratory data analysis (EDA) on a supermarket sales dataset to understand sales patterns, customer behavior, and product performance using Python.
 
 ## 🧰 Tools & Libraries
 - Python
@@ -10,6 +9,13 @@ to understand sales patterns, customer behavior, and product performance using P
 - NumPy
 - Matplotlib
 - Seaborn
+
+## 📂 Folder Structure
+- data/raw/      # Original dataset
+- data/clean/    # Cleaned dataset
+- notebooks/     # Jupyter notebook with EDA
+- images/        # Visualizations exported as PNG
+- README.md      # This file
 
 ## 📊 Key Questions Answered
 - Which branch generates the highest sales?
@@ -19,11 +25,11 @@ to understand sales patterns, customer behavior, and product performance using P
 - How do sales vary across months?
 
 ## 🔍 Steps Performed
-1. Data loading and inspection
-2. Data cleaning and duplicate removal
-3. Feature engineering (Date, Month, Year)
-4. Exploratory data analysis with visualizations
-5. Business insight generation
+- Data loading and inspection
+- Data cleaning and duplicate removal
+- Feature engineering (Date, Month, Year)
+- Exploratory data analysis with visualizations
+- Business insight generation
 
 ## 💡 Key Insights
 - Sales vary significantly across branches.
@@ -39,3 +45,6 @@ Public supermarket sales dataset (CSV format).
 - Customer segmentation
 - Sales prediction using machine learning
 - Interactive dashboards
+
+
+
